@@ -1,0 +1,12 @@
+drop database Data;
+drop table userSetting cascade;
+drop table userOwned cascade;
+drop table favourite cascade;
+drop table library cascade;
+drop table settings cascade;
+drop table playbackHistory cascade;
+drop table review cascade;
+drop table album cascade;
+drop table userDetails cascade;
+drop table music cascade;
+drop table subscription cascade;
